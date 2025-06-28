@@ -1,5 +1,8 @@
 ## 👋Hi, I'm Anushka
-
+-🎓 I’m a third-year BTech student in Chemical Engineering at IIT Guwahati.
+-🌱 I am dedicated to enhancing my existing skills while learning and experimenting with new areas in tech and programming.
+-🚀 I am passionate about taking on new projects and collaborating with others to create impactful solutions.
+-💡 I enjoy learning new things and am always open to feedback and opportunities for growth.
 <!--
 **SgnAnushka/SgnAnushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🎓 I’m a third-year BTech student in Chemical Engineering at IIT Guwahati.
--🌱 I am dedicated to enhancing my existing skills while learning and experimenting with new areas in tech and programming.
--🚀 I am passionate about taking on new projects and collaborating with others to create impactful solutions.
